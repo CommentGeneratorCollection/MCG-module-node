@@ -1,6 +1,6 @@
 root = true
 
-[*.bat]
+[*.{bat,cmd}]
 end_of_line = crlf
 indent_style = space
 charset = shift_jis
