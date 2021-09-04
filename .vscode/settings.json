@@ -1,0 +1,7 @@
+{
+  "[bat]": {
+    "files.encoding": "shiftjis",
+    "files.autoGuessEncoding": false,
+    "files.eol": "\r\n"
+  }
+}
